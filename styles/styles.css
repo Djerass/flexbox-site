@@ -388,6 +388,7 @@ body {
   }
   #portfolio .container img {
     margin-bottom: 1rem;
+    margin-right: 0rem;
   }
 }
 
