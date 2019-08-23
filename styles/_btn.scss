@@ -1,0 +1,16 @@
+@import "./vars";
+
+.btn {
+  display: inline-block;
+  padding: 0.4rem 0.6rem;
+  text-align: center;
+  &.btn-dark {
+    color: $primary-color;
+    background-color: $dark-color;
+    transition: all 500ms;
+    &:hover {
+      background-color: $primary-color;
+      color: $dark-color;
+    }
+  }
+}
