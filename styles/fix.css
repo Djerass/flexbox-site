@@ -1,0 +1,16 @@
+#fix {
+  background-image: url("../images/arrup.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #414141;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  opacity: 0.7;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  cursor: pointer;
+  display: none;
+}
+/*# sourceMappingURL=fix.css.map */
